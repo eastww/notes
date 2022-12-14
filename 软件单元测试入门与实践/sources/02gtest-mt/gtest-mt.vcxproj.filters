@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="googletest">
+      <UniqueIdentifier>{3833c58c-3366-4835-bcb0-1ec612b3a339}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="googletest\lib">
+      <UniqueIdentifier>{862bec9b-fdab-401f-8c11-17f8db7051c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="googletest\include">
+      <UniqueIdentifier>{dc8ff5b2-35d2-4906-9628-3a07a9cf1a00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="googletest\include\gtest">
+      <UniqueIdentifier>{c9100b5e-1fea-4747-806d-e88c88d9cc6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="googletest\include\gtest\internal">
+      <UniqueIdentifier>{ae6d4017-0623-4ec8-9445-db6af1056c91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="googletest\include\gtest\internal\custom">
+      <UniqueIdentifier>{dfcd3a40-5b7b-4c13-a9e5-494c28ff8c83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="googletest\lib\gtest.lib">
+      <Filter>googletest\lib</Filter>
+    </Library>
+    <Library Include="googletest\lib\gtestd.lib">
+      <Filter>googletest\lib</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="googletest\include\gtest\gtest.h">
+      <Filter>googletest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\gtest_pred_impl.h">
+      <Filter>googletest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\gtest_prod.h">
+      <Filter>googletest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\gtest-death-test.h">
+      <Filter>googletest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\gtest-message.h">
+      <Filter>googletest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\gtest-param-test.h">
+      <Filter>googletest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\gtest-printers.h">
+      <Filter>googletest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\gtest-spi.h">
+      <Filter>googletest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\gtest-test-part.h">
+      <Filter>googletest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\gtest-typed-test.h">
+      <Filter>googletest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\gtest-death-test-internal.h">
+      <Filter>googletest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\gtest-filepath.h">
+      <Filter>googletest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\gtest-internal.h">
+      <Filter>googletest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\gtest-linked_ptr.h">
+      <Filter>googletest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\gtest-param-util.h">
+      <Filter>googletest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\gtest-param-util-generated.h">
+      <Filter>googletest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\gtest-port.h">
+      <Filter>googletest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\gtest-port-arch.h">
+      <Filter>googletest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\gtest-string.h">
+      <Filter>googletest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\gtest-tuple.h">
+      <Filter>googletest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\gtest-type-util.h">
+      <Filter>googletest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\custom\gtest.h">
+      <Filter>googletest\include\gtest\internal\custom</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\custom\gtest-port.h">
+      <Filter>googletest\include\gtest\internal\custom</Filter>
+    </ClInclude>
+    <ClInclude Include="googletest\include\gtest\internal\custom\gtest-printers.h">
+      <Filter>googletest\include\gtest\internal\custom</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

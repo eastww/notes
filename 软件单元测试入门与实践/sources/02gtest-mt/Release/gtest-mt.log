@@ -1,0 +1,41 @@
+﻿  main.cpp
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\internal\gtest-port.h(995,7): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\internal\gtest-port.h(996,7): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\internal\gtest-port.h(997,7): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\internal\gtest-port.h(998,7): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\internal\gtest-port.h(999,7): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(600,34): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(605,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(610,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(615,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(620,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(625,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(632,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(639,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(646,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(653,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(661,18): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(878,33): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(878): message : 查看对正在编译的 类 模板 实例化“testing::internal::TuplePolicy<TupleT>::tuple_element<I>”的引用
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(886): message : 查看对正在编译的 类 模板 实例化“testing::internal::TuplePolicy<TupleT>”的引用
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(882,29): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(875,43): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(961): message : 查看对正在编译的 类 模板 实例化“testing::internal::TuplePolicy<Tuple>”的引用
+          with
+          [
+              Tuple=std::tuple<>
+          ]
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\googletest\include\gtest\gtest-printers.h(601): message : 查看对正在编译的函数 模板 实例化“void testing::internal::PrintTupleTo<std::tuple<>>(const T &,std::ostream *)”的引用
+          with
+          [
+              T=std::tuple<>
+          ]
+gtest.lib(gtest-all.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(main.obj 中)
+gtest.lib(gtest-all.obj) : error LNK2001: 无法解析的外部符号 ___iob_func
+gtest.lib(gtest-all.obj) : error LNK2001: 无法解析的外部符号 _printf
+gtest.lib(gtest-all.obj) : error LNK2001: 无法解析的外部符号 __snprintf_s
+gtest.lib(gtest-all.obj) : error LNK2001: 无法解析的外部符号 _vprintf
+gtest.lib(gtest-all.obj) : error LNK2001: 无法解析的外部符号 "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+gtest.lib(gtest-all.obj) : error LNK2001: 无法解析的外部符号 "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+gtest.lib(gtest-all.obj) : error LNK2001: 无法解析的外部符号 "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+D:\work\Notes\软件单元测试入门与实践\sources\02gtest-mt\Release\gtest-mt.exe : fatal error LNK1120: 7 个无法解析的外部命令

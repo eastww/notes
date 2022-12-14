@@ -1,0 +1,4 @@
+D:\work\Notes\软件单元测试入门与实践\sources\01gtest_vs_project\01gtest_vs_project\Debug\01gtest_vs_project.vcxproj.CopyComplete
+D:\work\Notes\软件单元测试入门与实践\sources\01gtest_vs_project\01gtest_vs_project\Debug\01gtest_vs_project.exe
+D:\work\Notes\软件单元测试入门与实践\sources\01gtest_vs_project\01gtest_vs_project\Debug\gtest.pdb
+D:\work\Notes\软件单元测试入门与实践\sources\01gtest_vs_project\01gtest_vs_project\Debug\gtest_main.pdb

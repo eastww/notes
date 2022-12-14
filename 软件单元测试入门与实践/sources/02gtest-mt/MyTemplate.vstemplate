@@ -1,0 +1,48 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>gtest-mt</Name>
+    <Description>gtest测试项目，使用Visual Studio静态运行库</Description>
+    <ProjectType>VC</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>gtest-mt</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="gtest-mt.vcxproj" File="gtest-mt.vcxproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">gtest-mt.vcxproj.filters</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="main.cpp">main.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest.h">GOOGLETEST\INCLUDE\GTEST\gtest.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest_pred_impl.h">GOOGLETEST\INCLUDE\GTEST\gtest_pred_impl.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest_prod.h">GOOGLETEST\INCLUDE\GTEST\gtest_prod.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-death-test.h">GOOGLETEST\INCLUDE\GTEST\gtest-death-test.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-message.h">GOOGLETEST\INCLUDE\GTEST\gtest-message.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-param-test.h">GOOGLETEST\INCLUDE\GTEST\gtest-param-test.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-printers.h">GOOGLETEST\INCLUDE\GTEST\gtest-printers.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-spi.h">GOOGLETEST\INCLUDE\GTEST\gtest-spi.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-test-part.h">GOOGLETEST\INCLUDE\GTEST\gtest-test-part.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-typed-test.h">GOOGLETEST\INCLUDE\GTEST\gtest-typed-test.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-death-test-internal.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\gtest-death-test-internal.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-filepath.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\gtest-filepath.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-internal.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\gtest-internal.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-linked_ptr.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\gtest-linked_ptr.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-param-util.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\gtest-param-util.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-param-util-generated.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\gtest-param-util-generated.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-port.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\gtest-port.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-port-arch.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\gtest-port-arch.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-string.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\gtest-string.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-tuple.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\gtest-tuple.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-type-util.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\gtest-type-util.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\CUSTOM\gtest.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-port.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\CUSTOM\gtest-port.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtest-printers.h">GOOGLETEST\INCLUDE\GTEST\INTERNAL\CUSTOM\gtest-printers.h</ProjectItem>
+	  <ProjectItem ReplaceParameters="false" TargetFileName="gtest.lib">GOOGLETEST\LIB\gtest.lib</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="gtestd.lib">GOOGLETEST\LIB\gtestd.lib</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
