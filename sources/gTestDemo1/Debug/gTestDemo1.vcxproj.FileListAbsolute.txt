@@ -1,0 +1,4 @@
+D:\work\Notes\sources\gTestDemo1\Debug\gTestDemo1.vcxproj.CopyComplete
+D:\work\Notes\sources\gTestDemo1\Debug\gTestDemo1.exe
+D:\work\Notes\sources\gTestDemo1\Debug\gtest.pdb
+D:\work\Notes\sources\gTestDemo1\Debug\gtest_main.pdb
