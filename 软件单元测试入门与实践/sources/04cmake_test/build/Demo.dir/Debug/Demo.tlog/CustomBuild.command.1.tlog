@@ -1,0 +1,10 @@
+^D:\WORK\NOTES\软件单元测试入门与实践\SOURCES\04CMAKE_TEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/work/Notes/软件单元测试入门与实践/sources/04cmake_test -BD:/work/Notes/软件单元测试入门与实践/sources/04cmake_test/build --check-stamp-file D:/work/Notes/软件单元测试入门与实践/sources/04cmake_test/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

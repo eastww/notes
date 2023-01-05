@@ -1,0 +1,10 @@
+^D:\WORK\NOTES\软件单元测试入门与实践\SOURCES\04CMAKE_TEST\BUILD\CMAKEFILES\9890FF21B1BF11C550AA820C8E2FA599\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/work/Notes/软件单元测试入门与实践/sources/04cmake_test -BD:/work/Notes/软件单元测试入门与实践/sources/04cmake_test/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/work/Notes/软件单元测试入门与实践/sources/04cmake_test/build/Demo1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\work\Notes\软件单元测试入门与实践\sources\04cmake_test\main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\work\Notes\软件单元测试入门与实践\sources\04cmake_test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D1B84B3F-A37B-3653-8810-3E617E642E6D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

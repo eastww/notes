@@ -1,0 +1,3 @@
+D:/work/Notes/软件单元测试入门与实践/sources/04cmake_test/build/CMakeFiles/Demo.dir
+D:/work/Notes/软件单元测试入门与实践/sources/04cmake_test/build/CMakeFiles/ALL_BUILD.dir
+D:/work/Notes/软件单元测试入门与实践/sources/04cmake_test/build/CMakeFiles/ZERO_CHECK.dir
